@@ -1,0 +1,26 @@
+StudentID,Name,Gender,Class,Math_Score,Science_Score,English_Score,Attendance (%),City,Stream,Admission_Date
+S001,Ananya,F,10,89,92,85,95,Delhi,Science,9/30/2023
+S002,Rohan,M,10,76,81,78,88,Mumbai,Commerce,1/13/2024
+S003,Kavya,F,9,91,87,90,97,Chennai,Arts,10/6/2024
+S004,Aarav,M,9,65,72,70,83,Kolkata,Commerce,7/19/2024
+S005,Diya,F,10,85,89,92,96,Bengaluru,Science,10/3/2023
+S006,Manish,M,9,72,68,74,89,Delhi,Arts,3/2/2024
+S007,Priya,F,10,94,95,91,98,Mumbai,Science,9/4/2023
+S008,Karan,M,10,81,76,79,86,Chennai,Commerce,3/19/2024
+S009,Sneha,F,9,88,84,86,92,Bengaluru,Arts,11/17/2023
+S010,Aditya,M,10,79,82,75,90,Kolkata,Science,7/7/2022
+S011,Ritu,F,9,92,91,89,99,Delhi,Arts,9/11/2024
+S012,Yash,M,10,68,70,65,82,Mumbai,Commerce,7/2/2023
+S013,Meera,F,9,83,85,88,95,Chennai,Science,12/26/2023
+S014,Raj,M,10,75,77,80,87,Bengaluru,Commerce,7/14/2024
+S015,Isha,F,9,89,93,92,98,Kolkata,Science,5/25/2024
+S016,Arjun,M,10,70,74,72,84,Delhi,Commerce,9/10/2023
+S017,Neha,F,9,86,90,85,96,Mumbai,Science,2/18/2023
+S018,Dev,M,10,80,78,82,88,Chennai,Commerce,6/21/2024
+S019,Tanvi,F,9,90,88,87,94,Bengaluru,Arts,6/12/2022
+S020,Kunal,M,10,73,75,70,85,Kolkata,Science,9/27/2022
+S021,Aisha,F,9,84,86,89,97,Delhi,Arts,9/24/2023
+S022,Harsh,M,10,69,72,68,83,Mumbai,Commerce,6/24/2024
+S023,Pooja,F,9,93,91,90,99,Chennai,Science,7/24/2022
+S024,Vivek,M,10,77,79,80,89,Bengaluru,Commerce,8/5/2023
+S025,Tia,F,9,95,94,96,100,Kolkata,Science,4/20/2024
